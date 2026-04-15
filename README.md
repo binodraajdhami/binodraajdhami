@@ -26,6 +26,7 @@ Building scalable **AI, automation, SaaS, and developer tooling ecosystems** fro
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-FF2D20?style=for-the-badge&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### ☁️ Cloud & DevOps
