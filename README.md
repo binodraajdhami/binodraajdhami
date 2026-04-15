@@ -6,7 +6,7 @@ I am a passionate **Software Engineer, SaaS Builder, and AI Automation Engineer 
 
 My expertise spans across:
 - 🌐 Full Stack Web Development
-- ⚛️ React.js / Next.js / Laravel
+- ⚛️ React.js / Next.js / Angular / Laravel / Python
 - ☁️ Cloud Infrastructure & DevOps
 - 🤖 AI Agents & Automation Workflows
 - 📊 SaaS Product Architecture
